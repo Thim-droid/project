@@ -1,0 +1,53 @@
+{
+  "content": "Bienvenue ! :smiley: \nPour que le serveur reste bienveillant, tu dois accepter ce règlement. :point_down: \n",
+  "embeds": [
+    {
+      "description": "Ne pas **spammer**, **flooder** ou **se faire de la pub**.",
+      "color": 7506394
+    },
+    {
+      "description": "Ne pas **insulter**.",
+      "color": 292559
+    },
+    {
+      "description": "Ne pas écrire en **majuscule** dans toute une phrase.",
+      "color": 1724666,
+      "fields": [
+        {}
+      ]
+    },
+    {
+      "description": "Ne pas envoyer d'**images**, de **vidéos** ou de **liens abusifs**.",
+      "color": 1975770
+    },
+    {
+      "description": "Ne pas **provoquer** ou **insulter** un autre membre.",
+      "color": 11161
+    },
+    {
+      "description": "Ne pas **@mentionner** les **administrateurs** et **modérateurs** inutilement.",
+      "color": 8292
+    },
+    {
+      "description": "Ne pas envoyer de messages à caractère **raciste**, **pornographique**, **sexiste**, **injurieux**, **incitant à la haine**, **homophobes**, **etc...**",
+      "color": 1114197
+    },
+    {
+      "description": "Soyer **bienveillants** les un des autres.",
+      "color": 133459
+    },
+    {
+      "description": "**Tout manquement à ces règles entraînera des sanctions par les modérateurs.\nPour tout problème veuillez avertir un modérateur ou une aide.**",
+      "color": 16711680,
+      "fields": [
+        {
+          "value": "Les règles de Discord s'appliquent également : terms (https://discordapp.com/terms) & guidelines (https://discordapp.com/guidelines)."
+        }
+      ]
+    },
+    {
+      "description": "**:warning: Ce règlement peut évoluer dans le temps. :warning:**",
+      "color": 16758784
+    }
+  ]
+}
